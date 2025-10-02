@@ -1,0 +1,33 @@
+{
+  "key": "value",
+  "key-n": 101,
+  "key-o": {
+    "test": -202,
+    "float": 3.14,
+    "aaa": 3.1423
+  },
+  "key-l": [1, 2, 3.5, 40, 2.333333333],
+  "test": -202,
+  "float": 3.14,
+  "aaa": 3.1423,
+  "array-object": [
+    {
+      "id": 1,
+      "desc": "bejirrr"
+    },
+    {
+      "id": 2,
+      "desc": "walaweehhh"
+    }, 
+    {
+      "id": 3,
+      "desc": "awokdawodkawodawodk",
+      "apatuhhh": "apanihhhh"
+    },
+    {
+      "id": 4,
+      "ddwadawdaw": "aokdawodkoa",
+      "test": "aaaaaaaa"
+    }
+  ]
+}

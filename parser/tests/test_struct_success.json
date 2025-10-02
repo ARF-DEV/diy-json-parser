@@ -1,0 +1,14 @@
+{
+    "name": "arief",
+    "age": 12,
+    "balance": 200,
+    "current_education": {
+        "institution_name": "apa cobaaa",
+        "degree": "apa hayooo"
+    },
+    "scores": [
+        2,
+        2,
+        4
+    ]
+}
