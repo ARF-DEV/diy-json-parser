@@ -1,5 +1,6 @@
 # DIY JSON Parser
-this is a JSON parser that handles JSON parsing to various different golang data structures like maps, structs, and slices
+This is a JSON parser that handles JSON parsing to various different golang data structures like maps, structs, and slices
+
 Implemented with zero 3rd party dependencies (if you didn't count testify for unit test that is 😢)
 
 ## How it works
